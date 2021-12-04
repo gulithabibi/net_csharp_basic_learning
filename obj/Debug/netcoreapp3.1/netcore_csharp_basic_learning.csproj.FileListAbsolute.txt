@@ -1,0 +1,11 @@
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\bin\Debug\netcoreapp3.1\netcore_csharp_basic_learning.exe
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\bin\Debug\netcoreapp3.1\netcore_csharp_basic_learning.deps.json
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\bin\Debug\netcoreapp3.1\netcore_csharp_basic_learning.runtimeconfig.json
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\bin\Debug\netcoreapp3.1\netcore_csharp_basic_learning.runtimeconfig.dev.json
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\bin\Debug\netcoreapp3.1\netcore_csharp_basic_learning.dll
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\bin\Debug\netcoreapp3.1\netcore_csharp_basic_learning.pdb
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\obj\Debug\netcoreapp3.1\netcore_csharp_basic_learning.csprojAssemblyReference.cache
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\obj\Debug\netcoreapp3.1\netcore_csharp_basic_learning.AssemblyInfoInputs.cache
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\obj\Debug\netcoreapp3.1\netcore_csharp_basic_learning.AssemblyInfo.cs
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\obj\Debug\netcoreapp3.1\netcore_csharp_basic_learning.dll
+D:\DATA\Development\.NET C#\src\learning\netcore_csharp_basic_learning\obj\Debug\netcoreapp3.1\netcore_csharp_basic_learning.pdb

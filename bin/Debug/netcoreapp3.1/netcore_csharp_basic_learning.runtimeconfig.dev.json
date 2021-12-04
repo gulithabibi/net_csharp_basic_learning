@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gulit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gulit\\.nuget\\packages"
+    ]
+  }
+}
